@@ -7,4 +7,6 @@ public class hola {
 	int hol1a;
 	int adfs;
 	int dasdsadasd;
+	
+	boolean ho5435la = false;
 }
