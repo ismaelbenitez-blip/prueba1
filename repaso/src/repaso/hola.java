@@ -6,4 +6,5 @@ public class hola {
 	int numero;
 	int hol1a;
 	int adfs;
+	int dasdsadasd;
 }
