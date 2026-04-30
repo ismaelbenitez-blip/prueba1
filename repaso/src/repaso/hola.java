@@ -9,4 +9,6 @@ public class hola {
 	int dasdsadasd;
 	
 	boolean ho5435la = false;
+
+	boolean ho5435lasdfsdf = false;
 }
